@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x7635e234A956D5C3cB0ea0f7906B398FD077F8fA",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7635e234a956d5c3cb0ea0f7906b398fd077f8fa",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Salty Rat Club",
+  "SYMBOL": "SRC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/salty-rat-club",
+  "SHOW_BACKGROUND": true
+}
+
